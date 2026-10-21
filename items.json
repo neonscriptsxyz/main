@@ -5324,6 +5324,18 @@
       "emoji": "⚔️🌈"
     },
     {
+      "name": "Mortal",
+      "game": "mm2",
+      "price": 15,
+      "emoji": "⚰️🥀"
+    },
+    {
+      "name": "MortalChroma",
+      "game": "mm2",
+      "price": 100,
+      "emoji": "🌈🥀"
+    },
+    {
       "name": "GhostK2018",
       "game": "mm2",
       "price": 0.2,
