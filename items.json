@@ -5276,6 +5276,54 @@
       "emoji": "🔪"
     },
     {
+      "name": "Embersickle",
+      "game": "mm2",
+      "price": 15,
+      "emoji": "🔥🌙"
+    },
+    {
+      "name": "EmberbowChroma",
+      "game": "mm2",
+      "price": 100,
+      "emoji": "🏹🌈"
+    },
+    {
+      "name": "Emberscythe",
+      "game": "mm2",
+      "price": 20,
+      "emoji": "🔥⚔️"
+    },
+    {
+      "name": "Emberbow",
+      "game": "mm2",
+      "price": 20,
+      "emoji": "🏹🔥"
+    },
+    {
+      "name": "Immortal",
+      "game": "mm2",
+      "price": 15,
+      "emoji": "♾️✨"
+    },
+    {
+      "name": "ImmortalChroma",
+      "game": "mm2",
+      "price": 100,
+      "emoji": "♾️🌈"
+    },
+    {
+      "name": "EmbersickleChroma",
+      "game": "mm2",
+      "price": 100,
+      "emoji": "🌙🌈"
+    },
+    {
+      "name": "EmberscytheChroma",
+      "game": "mm2",
+      "price": 100,
+      "emoji": "⚔️🌈"
+    },
+    {
       "name": "GhostK2018",
       "game": "mm2",
       "price": 0.2,
